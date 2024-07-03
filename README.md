@@ -1,1 +1,1 @@
-Nesta pasta há os códigos usado no PC e no Arduino para o projeto de Programação Aplicada
+Nesta pasta há os códigos usados no PC e no Arduino para o projeto de Programação Aplicada
